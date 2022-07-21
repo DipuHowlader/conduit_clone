@@ -1,0 +1,6 @@
+export { default as NewPost } from './post'
+export { default as Profile } from './profile'
+export { default as Login } from './auth/login'
+export { default as Register } from './auth/register'
+export { default as Home } from './home'
+export { default as ProfileSettings } from './profile/settings'
